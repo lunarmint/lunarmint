@@ -27,6 +27,11 @@ A Computer Science student enthusiastic over open-source software, and all thing
     <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#90](https://github.com/ranimepiracy/chiya/pull/90) in [ranimepiracy/chiya](https://github.com/ranimepiracy/chiya)
+2. 🎉 Merged PR [#87](https://github.com/ranimepiracy/chiya/pull/87) in [ranimepiracy/chiya](https://github.com/ranimepiracy/chiya)
+3. 🎉 Merged PR [#89](https://github.com/ranimepiracy/chiya/pull/89) in [ranimepiracy/chiya](https://github.com/ranimepiracy/chiya)
+4. 💪 Opened PR [#89](https://github.com/ranimepiracy/chiya/pull/89) in [ranimepiracy/chiya](https://github.com/ranimepiracy/chiya)
+5. 🎉 Merged PR [#86](https://github.com/ranimepiracy/chiya/pull/86) in [ranimepiracy/chiya](https://github.com/ranimepiracy/chiya)
 <!--END_SECTION:activity-->
 
 </details>
