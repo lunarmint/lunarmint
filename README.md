@@ -24,20 +24,11 @@ A Computer Science student enthusiastic over open-source software, and all thing
 <details>
     <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 </details>
 
 <details>
     <summary>⚡ Recent Anilist Activity</summary>
 <!--START_SECTION:waka-->
-```text
-```
-
-```text
-```
-
-```text
-```
 <!--END_SECTION:waka-->
 </details>
