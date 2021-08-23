@@ -37,7 +37,7 @@ A Computer Science student enthusiastic over open-source software, and all thing
 </details>
 
 <details>
-    <summary>⚡ Recent Anilist Activity</summary>
+    <summary>⚡ Personal Stats</summary>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
