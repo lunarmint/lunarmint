@@ -1,7 +1,5 @@
 # Hey there! 👋
 
----
-
 **I'm Mint.**
 
 A Computer Science student enthusiastic over open-source software, and all things PC related.
