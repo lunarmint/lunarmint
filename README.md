@@ -40,6 +40,40 @@ A Computer Science student enthusiastic over open-source software, and all thing
     <summary>⚡ Recent Anilist Activity</summary>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23846%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.26% 
+🌆 Daytime    86 commits     █████████░░░░░░░░░░░░░░░░   38.74% 
+🌃 Evening    33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.86% 
+🌙 Night      78 commits     ████████░░░░░░░░░░░░░░░░░   35.14%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       37 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Tuesday      30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.51% 
+Wednesday    7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15% 
+Thursday     70 commits     ████████░░░░░░░░░░░░░░░░░   31.53% 
+Friday       46 commits     █████░░░░░░░░░░░░░░░░░░░░   20.72% 
+Saturday     17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.66% 
+Sunday       15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.76%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+```
+
+
+ Last Updated on 23/08/2021
 <!--END_SECTION:waka-->
 
 </details>
