@@ -8,7 +8,7 @@ A Computer Science student enthusiastic over open-source software, and all thing
 
 • ☠️ I've recently been taking an interest in ethical hacking.
 
-• 📚 I work regularly with:  **Java**, **Python**, **Javascript**, **Typescript**, **discord.py**, and **Vue.js**.
+• 📚 I work regularly with: **Python**, **Java**, **Javascript**, **Typescript**, **discord.py**, and **Vue.js**.
 
 • 🍛 Fun facts: I'm a guitar & piano player, a sort-of music composer, love cooking, and a cat person!
 
