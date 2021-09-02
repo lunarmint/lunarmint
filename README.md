@@ -97,10 +97,10 @@ Scala                    2 repos             ██░░░░░░░░░�
     <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#93](https://github.com/ranimepiracy/chiya/pull/93) in [ranimepiracy/chiya](https://github.com/ranimepiracy/chiya)
-2. 💪 Opened PR [#92](https://github.com/ranimepiracy/chiya/pull/92) in [ranimepiracy/chiya](https://github.com/ranimepiracy/chiya)
-3. 💪 Opened PR [#90](https://github.com/ranimepiracy/chiya/pull/90) in [ranimepiracy/chiya](https://github.com/ranimepiracy/chiya)
-4. 🎉 Merged PR [#87](https://github.com/ranimepiracy/chiya/pull/87) in [ranimepiracy/chiya](https://github.com/ranimepiracy/chiya)
+1. 🎉 Merged PR [#95](https://github.com/ranimepiracy/chiya/pull/95) in [ranimepiracy/chiya](https://github.com/ranimepiracy/chiya)
+2. 💪 Opened PR [#93](https://github.com/ranimepiracy/chiya/pull/93) in [ranimepiracy/chiya](https://github.com/ranimepiracy/chiya)
+3. 💪 Opened PR [#92](https://github.com/ranimepiracy/chiya/pull/92) in [ranimepiracy/chiya](https://github.com/ranimepiracy/chiya)
+4. 💪 Opened PR [#90](https://github.com/ranimepiracy/chiya/pull/90) in [ranimepiracy/chiya](https://github.com/ranimepiracy/chiya)
 5. 🎉 Merged PR [#86](https://github.com/ranimepiracy/chiya/pull/86) in [ranimepiracy/chiya](https://github.com/ranimepiracy/chiya)
 <!--END_SECTION:activity-->
 
