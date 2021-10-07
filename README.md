@@ -105,11 +105,11 @@ Scala                    2 repos             ██░░░░░░░░░�
     <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#78](https://github.com/ranimepiracy/chiya/issues/78) in [ranimepiracy/chiya](https://github.com/ranimepiracy/chiya)
-2. 💪 Opened PR [#114](https://github.com/ranimepiracy/chiya/pull/114) in [ranimepiracy/chiya](https://github.com/ranimepiracy/chiya)
-3. 💪 Opened PR [#113](https://github.com/ranimepiracy/chiya/pull/113) in [ranimepiracy/chiya](https://github.com/ranimepiracy/chiya)
-4. 💪 Opened PR [#112](https://github.com/ranimepiracy/chiya/pull/112) in [ranimepiracy/chiya](https://github.com/ranimepiracy/chiya)
-5. 💪 Opened PR [#108](https://github.com/ranimepiracy/chiya/pull/108) in [ranimepiracy/chiya](https://github.com/ranimepiracy/chiya)
+1. ❗️ Closed issue [#71](https://github.com/ranimepiracy/chiya/issues/71) in [ranimepiracy/chiya](https://github.com/ranimepiracy/chiya)
+2. ❗️ Closed issue [#78](https://github.com/ranimepiracy/chiya/issues/78) in [ranimepiracy/chiya](https://github.com/ranimepiracy/chiya)
+3. 💪 Opened PR [#114](https://github.com/ranimepiracy/chiya/pull/114) in [ranimepiracy/chiya](https://github.com/ranimepiracy/chiya)
+4. 💪 Opened PR [#113](https://github.com/ranimepiracy/chiya/pull/113) in [ranimepiracy/chiya](https://github.com/ranimepiracy/chiya)
+5. 💪 Opened PR [#112](https://github.com/ranimepiracy/chiya/pull/112) in [ranimepiracy/chiya](https://github.com/ranimepiracy/chiya)
 <!--END_SECTION:activity-->
 
 </details>
