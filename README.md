@@ -31,17 +31,17 @@ A Computer Science student enthusiastic over open-source software, and all thing
     <summary>⚡ Personal Stats</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-165082%20lines%20of%20code-blue)
 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning    86 commits     ██████░░░░░░░░░░░░░░░░░░░   25.07% 
+🌞 Morning    87 commits     ██████░░░░░░░░░░░░░░░░░░░   25.36% 
 🌆 Daytime    85 commits     ██████░░░░░░░░░░░░░░░░░░░   24.78% 
 🌃 Evening    106 commits    ███████░░░░░░░░░░░░░░░░░░   30.9% 
-🌙 Night      66 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.24%
+🌙 Night      65 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.95%
 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -98,7 +98,7 @@ Scala                    2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2021
+ Last Updated on 29/10/2021
 <!--END_SECTION:waka-->
 
 </details>
