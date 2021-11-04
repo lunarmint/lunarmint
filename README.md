@@ -102,11 +102,11 @@ Scala                    2 repos             ██░░░░░░░░░�
     <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/lunarmint/spotipyn/pull/1) in [lunarmint/spotipyn](https://github.com/lunarmint/spotipyn)
-2. 🎉 Merged PR [#2](https://github.com/lunarmint/spotipyn/pull/2) in [lunarmint/spotipyn](https://github.com/lunarmint/spotipyn)
-3. 🗣 Commented on [#1](https://github.com/lunarmint/spotipyn/issues/1) in [lunarmint/spotipyn](https://github.com/lunarmint/spotipyn)
-4. 💪 Opened PR [#120](https://github.com/ranimepiracy/chiya/pull/120) in [ranimepiracy/chiya](https://github.com/ranimepiracy/chiya)
-5. 💪 Opened PR [#113](https://github.com/ranimepiracy/chiya/pull/113) in [ranimepiracy/chiya](https://github.com/ranimepiracy/chiya)
+1. 🎉 Merged PR [#124](https://github.com/ranimepiracy/chiya/pull/124) in [ranimepiracy/chiya](https://github.com/ranimepiracy/chiya)
+2. ❌ Closed PR [#1](https://github.com/lunarmint/spotipyn/pull/1) in [lunarmint/spotipyn](https://github.com/lunarmint/spotipyn)
+3. 🎉 Merged PR [#2](https://github.com/lunarmint/spotipyn/pull/2) in [lunarmint/spotipyn](https://github.com/lunarmint/spotipyn)
+4. 🗣 Commented on [#1](https://github.com/lunarmint/spotipyn/issues/1) in [lunarmint/spotipyn](https://github.com/lunarmint/spotipyn)
+5. 💪 Opened PR [#120](https://github.com/ranimepiracy/chiya/pull/120) in [ranimepiracy/chiya](https://github.com/ranimepiracy/chiya)
 <!--END_SECTION:activity-->
 
 </details>
