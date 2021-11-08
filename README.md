@@ -12,7 +12,7 @@ A Computer Science student enthusiastic over open-source software, and all thing
 
 • 🍛 Fun facts: I'm a guitar & piano player, a sort-of music composer, love cooking, and a cat person!
 
-• 🔎 Looking for somewhere to buy a reasonably priced GTX 3070.
+• 🔎 Currently building a cool web app with Flask.
 
 ✨ You can reach out to me via email at **developer@chocomint.dev** or Discord at **Mint#0504**.
 
