@@ -21,9 +21,9 @@ A Computer Science student enthusiastic over open-source software, and all thing
 <details>
     <summary>⚡ GitHub Stats</summary>
 
-<img height="157px" align="center" alt="Mint's GitHub Stats" src="https://github-readme-stats-lunarmint.vercel.app/api?username=lunarmint&count_private=true&show_icons=true&hide_title=true&hide_border=true&title_color=00ffdf&icon_color=00ffdf&text_color=141823&bg_color=0,4158d0,c850c0,ffcc70&include_all_commits=false"/>
+<img height="158px" align="center" alt="Mint's GitHub Stats" src="https://github-readme-stats-lunarmint.vercel.app/api?username=lunarmint&count_private=true&show_icons=true&hide_title=true&hide_border=true&title_color=00ffdf&icon_color=00ffdf&text_color=141823&bg_color=0,4158d0,c850c0,ffcc70&include_all_commits=false"/>
 
-<img height="157px" align="center" alt="Mint's Most Used Languages" src="https://github-readme-stats-lunarmint.vercel.app/api/top-langs/?username=lunarmint&hide_title=true&hide_border=true&langs_count=8&layout=compact&title_color=141823&bg_color=0,ffcc70,c850c0,4158d0"/>
+<img height="158px" align="center" alt="Mint's Most Used Languages" src="https://github-readme-stats-lunarmint.vercel.app/api/top-langs/?username=lunarmint&hide_title=true&hide_border=true&langs_count=8&layout=compact&title_color=141823&bg_color=0,ffcc70,c850c0,4158d0"/>
 
 </details>
 
