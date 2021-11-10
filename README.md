@@ -48,10 +48,10 @@ A Computer Science student enthusiastic over open-source software, and all thing
 
 ```text
 Monday       87 commits     ██████░░░░░░░░░░░░░░░░░░░   23.58% 
-Tuesday      45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
+Tuesday      46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.47% 
 Wednesday    30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.13% 
 Thursday     84 commits     █████░░░░░░░░░░░░░░░░░░░░   22.76% 
-Friday       45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
+Friday       44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.92% 
 Saturday     44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.92% 
 Sunday       34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.21%
 
