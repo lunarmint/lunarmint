@@ -31,7 +31,7 @@ A Computer Science student enthusiastic over open-source software, and all thing
     <summary>⚡ Personal Stats</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-164911%20lines%20of%20code-blue)
 
@@ -49,10 +49,10 @@ A Computer Science student enthusiastic over open-source software, and all thing
 ```text
 Monday       87 commits     ██████░░░░░░░░░░░░░░░░░░░   23.58% 
 Tuesday      46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.47% 
-Wednesday    30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.13% 
+Wednesday    31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.4% 
 Thursday     84 commits     █████░░░░░░░░░░░░░░░░░░░░   22.76% 
 Friday       44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.92% 
-Saturday     44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.92% 
+Saturday     43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.65% 
 Sunday       34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.21%
 
 ```
@@ -88,7 +88,7 @@ Scala                    2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2021
+ Last Updated on 11/11/2021
 <!--END_SECTION:waka-->
 
 </details>
