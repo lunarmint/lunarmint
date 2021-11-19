@@ -104,11 +104,11 @@ Clojure                  2 repos             ██░░░░░░░░░�
     <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/lunarmint/spotipyn/pull/4) in [lunarmint/spotipyn](https://github.com/lunarmint/spotipyn)
-2. 🗣 Commented on [#4](https://github.com/lunarmint/spotipyn/issues/4) in [lunarmint/spotipyn](https://github.com/lunarmint/spotipyn)
-3. 🗣 Commented on [#3](https://github.com/lunarmint/spotipyn/issues/3) in [lunarmint/spotipyn](https://github.com/lunarmint/spotipyn)
-4. ❌ Closed PR [#3](https://github.com/lunarmint/spotipyn/pull/3) in [lunarmint/spotipyn](https://github.com/lunarmint/spotipyn)
-5. 🎉 Merged PR [#125](https://github.com/ranimepiracy/chiya/pull/125) in [ranimepiracy/chiya](https://github.com/ranimepiracy/chiya)
+1. 🎉 Merged PR [#7](https://github.com/lunarmint/spotipyn/pull/7) in [lunarmint/spotipyn](https://github.com/lunarmint/spotipyn)
+2. 💪 Opened PR [#7](https://github.com/lunarmint/spotipyn/pull/7) in [lunarmint/spotipyn](https://github.com/lunarmint/spotipyn)
+3. 🎉 Merged PR [#6](https://github.com/lunarmint/spotipyn/pull/6) in [lunarmint/spotipyn](https://github.com/lunarmint/spotipyn)
+4. 🎉 Merged PR [#4](https://github.com/lunarmint/spotipyn/pull/4) in [lunarmint/spotipyn](https://github.com/lunarmint/spotipyn)
+5. 🗣 Commented on [#4](https://github.com/lunarmint/spotipyn/issues/4) in [lunarmint/spotipyn](https://github.com/lunarmint/spotipyn)
 <!--END_SECTION:activity-->
 
 </details>
