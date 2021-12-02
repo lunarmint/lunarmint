@@ -4,11 +4,11 @@
 
 A Computer Science student enthusiastic over open-source software, and all things PC related.
 
-• 👾 I'm a Discord bot developer.
+• 👾 I'm a web app and Discord bot developer.
 
 • ☠️ I've recently been taking an interest in ethical hacking.
 
-• 📚 I work regularly with: **Python**, **Java**, **Javascript**, **Typescript**, **discord.py**, and **Vue.js**.
+• 📚 I work regularly with: **Python**, **Java**, and **Javascript**.
 
 • 🍛 Fun facts: I'm a guitar & piano player, a sort-of music composer, okay-ish cook, and a cat person!
 
