@@ -1,18 +1,10 @@
-# Hey there! 👋
+A Computer student enthusiastic about web application, privacy, ethical hacking, and sysadmin.
 
-**I'm Mint.**
+• 👾 I'm a backend engineer.
 
-A Computer Science student enthusiastic over open-source software, and all things PC related.
+• 📚 I work regularly with: **Python**, **Java**, **Javascript**, and **Typescript**.
 
-• 👾 I'm a web app and Discord bot developer.
-
-• ☠️ I've recently been taking an interest in ethical hacking.
-
-• 📚 I work regularly with: **Python**, **Java**, and **Javascript**.
-
-• 🍛 Fun facts: I'm a guitar & piano player, a sort-of music composer, okay-ish cook, and a cat person!
-
-• 🔎 Currently building a cool web app with Flask.
+• 🍛 Fun facts: I'm a guitar & piano player, a sort-of music composer, okay-ish cook, and a huge fan of cats.
 
 ✨ You can reach out to me via email at **developer@chocomint.dev** or Discord at **Mint#0504**.
 
