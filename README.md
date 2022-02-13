@@ -1,4 +1,4 @@
-A Computer student enthusiastic about web application, privacy, ethical hacking, and sysadmin.
+A Computer Science student enthusiastic about web application, privacy, ethical hacking, and sysadmin.
 
 • 👾 I'm a backend engineer.
 
