@@ -95,11 +95,11 @@ Clojure                  2 repos             ██░░░░░░░░░�
     <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/gmaldona/OpenLiberty-Demo/pull/6) in [gmaldona/OpenLiberty-Demo](https://github.com/gmaldona/OpenLiberty-Demo)
-2. 💪 Opened PR [#3](https://github.com/gmaldona/OpenLiberty-Demo/pull/3) in [gmaldona/OpenLiberty-Demo](https://github.com/gmaldona/OpenLiberty-Demo)
-3. 💪 Opened PR [#133](https://github.com/ranimepiracy/chiya/pull/133) in [ranimepiracy/chiya](https://github.com/ranimepiracy/chiya)
-4. 🗣 Commented on [#132](https://github.com/ranimepiracy/chiya/issues/132) in [ranimepiracy/chiya](https://github.com/ranimepiracy/chiya)
-5. 🎉 Merged PR [#6](https://github.com/lunarmint/spotipyn/pull/6) in [lunarmint/spotipyn](https://github.com/lunarmint/spotipyn)
+1. 💪 Opened PR [#54](https://github.com/tenbergen/CSC480-22S/pull/54) in [tenbergen/CSC480-22S](https://github.com/tenbergen/CSC480-22S)
+2. 🎉 Merged PR [#52](https://github.com/tenbergen/CSC480-22S/pull/52) in [tenbergen/CSC480-22S](https://github.com/tenbergen/CSC480-22S)
+3. 🎉 Merged PR [#49](https://github.com/tenbergen/CSC480-22S/pull/49) in [tenbergen/CSC480-22S](https://github.com/tenbergen/CSC480-22S)
+4. 💪 Opened PR [#9](https://github.com/gmaldona/OpenLiberty-Demo/pull/9) in [gmaldona/OpenLiberty-Demo](https://github.com/gmaldona/OpenLiberty-Demo)
+5. ❌ Reopened PR [#1](https://github.com/lunarmint/OpenLiberty-Demo/pull/1) in [lunarmint/OpenLiberty-Demo](https://github.com/lunarmint/OpenLiberty-Demo)
 <!--END_SECTION:activity-->
 
 </details>
