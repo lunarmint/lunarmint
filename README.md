@@ -98,11 +98,11 @@ Clojure                  2 repos             ██░░░░░░░░░�
     <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#55](https://github.com/tenbergen/CSC480-22S/pull/55) in [tenbergen/CSC480-22S](https://github.com/tenbergen/CSC480-22S)
-2. 💪 Opened PR [#54](https://github.com/tenbergen/CSC480-22S/pull/54) in [tenbergen/CSC480-22S](https://github.com/tenbergen/CSC480-22S)
-3. 🎉 Merged PR [#52](https://github.com/tenbergen/CSC480-22S/pull/52) in [tenbergen/CSC480-22S](https://github.com/tenbergen/CSC480-22S)
-4. 🎉 Merged PR [#49](https://github.com/tenbergen/CSC480-22S/pull/49) in [tenbergen/CSC480-22S](https://github.com/tenbergen/CSC480-22S)
-5. 💪 Opened PR [#9](https://github.com/gmaldona/OpenLiberty-Demo/pull/9) in [gmaldona/OpenLiberty-Demo](https://github.com/gmaldona/OpenLiberty-Demo)
+1. 🎉 Merged PR [#250](https://github.com/tenbergen/CSC480-22S/pull/250) in [tenbergen/CSC480-22S](https://github.com/tenbergen/CSC480-22S)
+2. 🎉 Merged PR [#248](https://github.com/tenbergen/CSC480-22S/pull/248) in [tenbergen/CSC480-22S](https://github.com/tenbergen/CSC480-22S)
+3. 🎉 Merged PR [#249](https://github.com/tenbergen/CSC480-22S/pull/249) in [tenbergen/CSC480-22S](https://github.com/tenbergen/CSC480-22S)
+4. ❌ Closed PR [#23](https://github.com/tmkhang1999/Family-Tree/pull/23) in [tmkhang1999/Family-Tree](https://github.com/tmkhang1999/Family-Tree)
+5. 💪 Opened PR [#23](https://github.com/tmkhang1999/Family-Tree/pull/23) in [tmkhang1999/Family-Tree](https://github.com/tmkhang1999/Family-Tree)
 <!--END_SECTION:activity-->
 
 </details>
