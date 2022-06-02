@@ -4,7 +4,7 @@ Welcome to my backyard where I break things 💀
 
 • 📚 Ask me about anything related to **Python**, **Java**, **Javascript**, **C#** or **Flask**, **OpenLiberty**, **Docker**, **Discord API**, and **Spotify API**
 
-• 🍛 Fun facts: I'm a guitar & piano player, a sort-of music composer, okay-ish cook, and a huge fan of cats.
+• 🍛 Fun facts: I'm a guitar & piano player, a sort-of music composer, okay-ish cook, huge fan of cats, and may or may not like anime.
 
 ✨ You can reach out to me via email at **developer@chocomint.dev** or Discord at **Mint#0504**.
 
