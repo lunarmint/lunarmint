@@ -1,8 +1,8 @@
-A Computer Science student enthusiastic about web application, privacy, ethical hacking, and sysadmin.
+Welcome to my backyard where I break things 💀
 
-• 👾 I'm a backend engineer.
+• 👾 I'm a backend engineer enthusiastic about web application, privacy, ethical hacking, networking, and sysadmin.
 
-• 📚 I work regularly with: **Python**, **Java**, **Javascript**, and **Typescript**.
+• 📚 Ask me about anything related to **Python**, **Java**, **Javascript** or **Flask**, **OpenLiberty**, **Docker**, **Discord API**, and **Spotify API**
 
 • 🍛 Fun facts: I'm a guitar & piano player, a sort-of music composer, okay-ish cook, and a huge fan of cats.
 
