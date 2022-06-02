@@ -2,7 +2,7 @@ Welcome to my backyard where I break things 💀
 
 • 👾 I'm a backend engineer enthusiastic about web application, privacy, ethical hacking, networking, and sysadmin.
 
-• 📚 Ask me about anything related to **Python**, **Java**, **Javascript** or **Flask**, **OpenLiberty**, **Docker**, **Discord API**, and **Spotify API**
+• 📚 Ask me about anything related to **Python**, **Java**, **Javascript**, **C#** or **Flask**, **OpenLiberty**, **Docker**, **Discord API**, and **Spotify API**
 
 • 🍛 Fun facts: I'm a guitar & piano player, a sort-of music composer, okay-ish cook, and a huge fan of cats.
 
