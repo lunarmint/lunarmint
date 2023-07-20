@@ -2,9 +2,11 @@ Welcome to my backyard where I break things 💀
 
 • 👾 I'm a backend engineer enthusiastic about web application, privacy, ethical hacking, networking, and sysadmin.
 
-• 📚 Ask me about anything related to **Python**, **Java**, **Javascript**, **Flask**, **OpenLiberty**, **Docker**, and **Discord API**.
+• 📚 Ask me about anything related to **Python**, **Javascript**, **Docker**, and **Discord API**, and **AWS**.
 
 • 🍛 Fun facts: I'm a guitar & piano player, a sort-of music composer, okay-ish cook, huge fan of cats, and may or may not like anime.
+
+• 🎲 Building a cool game with Unity.
 
 ✨ You can reach out to me via email at **developer@chocomint.dev** or Discord at **Mint#0504**.
 
