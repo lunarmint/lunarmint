@@ -1,14 +1,14 @@
-Welcome to my backyard where I break things 💀
+Welcome to my backyard where I break things 😙 
 
-• 👾 I'm a backend engineer enthusiastic about web application, privacy, ethical hacking, networking, and sysadmin.
+• 👾 I work as a backend engineer. Mostly poking around topics such as web app, networking, privacy, ethical hacking, and sysadmin.
 
-• 📚 Ask me about anything related to **Python**, **Javascript**, **Docker**, and **Discord API**, and **AWS**.
+• 🪄 I mostly use Python and Javascript. I frequently work with AWS, Discord API, and Docker.
 
-• 🍛 Fun facts: I'm a guitar & piano player, a sort-of music composer, okay-ish cook, huge fan of cats, and may or may not like anime.
+• 💖 I play guitar, love cooking when I have time, and probably play too much League.
 
-• 🎲 Building a cool game with Unity.
+• 💤 I want to be a house cat. Looks cute, do nothing, yet still well-fed. Jealous.
 
-✨ You can reach out to me via email at **developer@chocomint.dev** or Discord at **Mint#0504**.
+🌸 Contact me via email at **developer@chocomint.dev** or **Mint#0504** on Discord.
 
 ---
 
