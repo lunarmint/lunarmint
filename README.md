@@ -8,7 +8,7 @@ Welcome to my backyard where I break things 😙
 
 • 💤 I want to be a house cat. Looks cute, do nothing, yet still well-fed. Jealous.
 
-🍻 Contact me via email at **developer@chocomint.dev** or **Mint#0504** on Discord.
+🍻 Contact me via email at **developer@chocomint.dev** or `@lunarmint` on Discord.
 
 ---
 
