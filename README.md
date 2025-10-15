@@ -1,14 +1,31 @@
 Welcome to my backyard where I break things 😙 
 
-• 🎀 I work as a backend engineer. Mostly poking around topics such as web app, networking, privacy, ethical hacking, and sysadmin
+## About Me
 
-• 📚 I mostly use Python and Javascript. I frequently work with AWS, Discord API, Docker, and general backend web dev stuff
+🎓 I graduated in 2023 with a major in Computer Science and minor in Information Science.
 
-• 💕 I play guitar, love cooking when I have time, and probably play too much League
+🎀 I work as a software engineer by day, and do passion projects by night. Or grind games.
 
-• 💤 Lazing around all day like a cat would be cool
+🎸 I play guitar, love cooking or baking when I have time (read: not grinding games).
 
-🍻 Contact me via email at **developer@chocomint.dev** or `@lunarmint` on Discord.
+🍨 Favorite languages: Python and C#
+
+## Active Projects
+
+🧙‍♂️ [Genshin Wizard](https://www.genshinwizard.com): A highly scalable and feature-rich Discord bot for Genshin Impact with tons of beautifully designed user infographics
+
+- Main technologies used: asyncio, aiohttp, discord.py, MongoDB, Pillow, Redis, Splunk, and Sentry
+
+🎬 [GI-cutscene](https://github.com/lunarmint/GI-cutscenes/tree/personal): A command line program in C# that reverse engineer and plays cutscenes files (.usm) from Genshin Impact.
+
+## Past Projects
+- [Chiya](github.com/Snaacky/chiya): A Discord bot with various moderation tools including automodding, auto-mention, and starboard.
+- [Calibrated Peer Review App](https://github.com/tenbergen/CPRTool/tree/22d3d089b12b472fa649c1276396b28df4073f3e): A micro-serviced web application that assists the process of coordinating and evaluating peer reviews of student work.
+- [Calibrated Peer Review Bot](https://github.com/lunarmint/cpr-bot): A calibrated peer review Discord bot for the Calibrated Peer Review App, working as an alternative tool to interact.
+
+🍻 Contact me 
+- **developer@chocomint.dev**
+- `@lunarmint` on Discord.
 
 ---
 
