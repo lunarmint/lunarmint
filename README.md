@@ -16,7 +16,7 @@ Welcome to my backyard where I passionately break things 😙
 
 🧙‍♂️ [Genshin Wizard](https://www.genshinwizard.com): A highly scalable and feature-rich Discord bot for Genshin Impact with tons of beautifully designed user infographics.
 
-- Main technologies: asyncio, aiohttp, discord.py, MongoDB, Pillow, Redis, Splunk, and Sentry.
+- Main technologies: asyncio, aiohttp, discord.py, Docker, MongoDB, Pillow, Redis, Splunk, and Sentry.
 
 🎬 [GI-cutscene](https://github.com/lunarmint/GI-cutscenes/tree/personal): A command line program in C# that reverse engineer and plays cutscenes files (.usm) from Genshin Impact.
 
