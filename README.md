@@ -2,7 +2,7 @@ Welcome to my backyard where I break things 😙
 
 ## About Me
 
-🎓 I graduated in 2023 with a major in Computer Science and minor in Information Science.
+🎓 I'm a graduate from SUNY Oswego in 2023 with a major in Computer Science and a minor in Information Science.
 
 🎀 I work as a software engineer by day, and do passion projects by night. Or grind games.
 
