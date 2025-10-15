@@ -1,6 +1,6 @@
-Welcome to my backyard where I break things 😙 
+Welcome to my backyard where I passionately break things 😙 
 
-## About Me
+# About Me
 
 🎓 I'm a graduate from SUNY Oswego in 2023 with a major in Computer Science and a minor in Information Science.
 
@@ -22,6 +22,10 @@ Welcome to my backyard where I break things 😙
 - [Chiya](github.com/Snaacky/chiya): A Discord bot with various moderation tools including automodding, auto-mention, and starboard.
 - [Calibrated Peer Review App](https://github.com/tenbergen/CPRTool/tree/22d3d089b12b472fa649c1276396b28df4073f3e): A micro-serviced web application that assists the process of coordinating and evaluating peer reviews of student work.
 - [Calibrated Peer Review Bot](https://github.com/lunarmint/cpr-bot): A calibrated peer review Discord bot for the Calibrated Peer Review App, working as an alternative tool to interact.
+
+## Goals
+- Get better at front end web development and designs.
+- Be more fluent in C# and learn Rust.
 
 🍻 Contact me 
 - **developer@chocomint.dev**
