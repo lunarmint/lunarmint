@@ -6,7 +6,9 @@ Welcome to my backyard where I passionately break things 😙
 
 🎀 I work as a software engineer by day, and do passion projects by night. Or grind games.
 
-🎸 I play guitar, love cooking or baking when I have time (read: not grinding games).
+🎸 I love riding motorbike, play guitar, and cook or bake when I have time (read: not grinding games).
+
+💤 I want to get better at front end development and designs. Perhaps learn Rust as well.
 
 🍨 Favorite languages: Python and C#
 
@@ -23,11 +25,7 @@ Welcome to my backyard where I passionately break things 😙
 - [Calibrated Peer Review App](https://github.com/tenbergen/CPRTool/tree/22d3d089b12b472fa649c1276396b28df4073f3e): A micro-serviced web application that assists the process of coordinating and evaluating peer reviews of student work.
 - [Calibrated Peer Review Bot](https://github.com/lunarmint/cpr-bot): A calibrated peer review Discord bot for the Calibrated Peer Review App, working as an alternative tool to interact.
 
-## Goals
-- Get better at front end web development and designs.
-- Be more fluent in C# and learn Rust.
-
-🍻 Contact me 
+## 🍻 Contact me 
 - **developer@chocomint.dev**
 - `@lunarmint` on Discord.
 
