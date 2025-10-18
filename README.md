@@ -18,7 +18,7 @@ Welcome to my backyard where I passionately break things 😙
 
 - Main technologies: asyncio, aiohttp, discord.py, Docker, MongoDB, Pillow, Redis, Splunk, and Sentry.
 
-🎬 [GI-cutscene](https://github.com/lunarmint/GI-cutscenes/tree/personal): A command line program in C# that reverse engineer and plays cutscenes files (.usm) from Genshin Impact.
+🎬 [GI-cutscene](https://github.com/lunarmint/GI-cutscenes/tree/personal): A command line program in C# that reverse engineer and plays cutscene files (.usm) from Genshin Impact.
 
 ## Past Projects
 - [Chiya](github.com/Snaacky/chiya): A Discord bot with various moderation tools including automodding, auto-mention, and starboard.
