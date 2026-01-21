@@ -6,7 +6,7 @@ Welcome to my backyard where I passionately break things 😙
 
 🎀 I work as a software engineer by day, and do passion projects by night. Or grind games.
 
-🎸 I love riding motorbike, play guitar, and cook or bake when I have time (read: not grinding games).
+🎸 I play guitar, cook, or bake when I have time (read: not grinding games).
 
 💤 I want to get better at front end development and designs. Perhaps learn Rust as well.
 
