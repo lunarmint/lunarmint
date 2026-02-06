@@ -26,7 +26,7 @@ Welcome to my backyard where I passionately break things 😙
 - [Calibrated Peer Review Bot](https://github.com/lunarmint/cpr-bot): A calibrated peer review Discord bot for the Calibrated Peer Review App, working as an alternative tool to interact.
 
 ## 🍻 Contact me 
-- **developer@chocomint.dev**
+- **me@chocomint.dev**
 - `@lunarmint` on Discord.
 
 ---
