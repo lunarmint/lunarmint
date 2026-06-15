@@ -21,7 +21,7 @@ Welcome to my backyard where I passionately break things 😙
 🎬 [charlotte](https://github.com/lunarmint/charlotte): A command line program in Python that reverse engineer USM cutscene files from Genshin Impact into a complete MKV video with VapourSynth integration to improve video quality.
 
 ## Past Projects
-- [Chiya](github.com/Snaacky/chiya): A Discord bot with various moderation tools including automodding, auto-mention, and starboard.
+- [Chiya](https://github.com/Snaacky/chiya): A Discord bot with various moderation tools including automodding, auto-mention, and starboard.
 - [Calibrated Peer Review App](https://github.com/tenbergen/CPRTool/tree/22d3d089b12b472fa649c1276396b28df4073f3e): A micro-serviced web application that assists the process of coordinating and evaluating peer reviews of student work.
 - [Calibrated Peer Review Bot](https://github.com/lunarmint/cpr-bot): A calibrated peer review Discord bot for the Calibrated Peer Review App, working as an alternative tool to interact.
 
