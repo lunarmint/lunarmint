@@ -18,7 +18,7 @@ Welcome to my backyard where I break things 🩷
 
 - Main technologies: asyncio, aiohttp, discord.py, Docker, MongoDB, Pillow, Redis, Splunk, and Sentry.
 
-🎬 [charlotte](https://github.com/The-Steambird/charlotte): A command line program in Python that reverse engineer USM cutscene files from Genshin Impact into a complete MKV video with [VapourSynth](https://github.com/vapoursynth/vapoursynth) integration to improve video quality.
+🎬 [charlotte](https://github.com/The-Steambird/charlotte): A GUI program in C# and Python that reverse engineer USM cutscene files from Genshin Impact into a complete MKV video with [VapourSynth](https://github.com/vapoursynth/vapoursynth) integration to improve video quality.
 
 ## 🥂 Contact me 
 - **me@chocomint.dev**
